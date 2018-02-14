@@ -1,0 +1,53 @@
+item.contenttweaker.damagedPlateIron.name=Dented Iron Plate
+item.contenttweaker.damagedPlateGold.name=Dented Gold Plate
+item.contenttweaker.damagedPlateCopper.name=Dented Copper Plate
+item.contenttweaker.damagedPlateTin.name=Dented Tin Plate
+item.contenttweaker.damagedPlateSilver.name=Dented Silver Plate
+item.contenttweaker.damagedPlateLead.name=Dented Lead Plate
+item.contenttweaker.damagedPlateAluminum.name=Dented Aluminum Plate
+item.contenttweaker.damagedPlateNickel.name=Dented Nickel Plate
+item.contenttweaker.damagedPlatePlatinum.name=Dented Platinum Plate
+item.contenttweaker.damagedPlateIridium.name=Dented Iridium Plate
+item.contenttweaker.damagedPlateMithril.name=Dented Mana-Infused Plate
+item.contenttweaker.damagedPlateSteel.name=Dented Steel Plate
+item.contenttweaker.damagedPlateElectrum.name=Dented Electrum Plate
+item.contenttweaker.damagedPlateInvar.name=Dented Invar Plate
+item.contenttweaker.damagedPlateBronze.name=Dented Bronze Plate
+item.contenttweaker.damagedPlateConstatan.name=Dented Constantan Plate
+item.contenttweaker.damagedPlateSignalum.name=Dented Signalum Plate
+item.contenttweaker.damagedPlateLumium.name=Dented Lumium Plate
+item.contenttweaker.damagedPlateEnderium.name=Dented Enderium Plate
+item.contenttweaker.damagedPlateFluxedElectrum.name=Dented Fluxed Electrum Plate
+
+item.contenttweaker.damagedGearIron.name=Chipped Iron Gear
+item.contenttweaker.damagedGearGold.name=Chipped Gold Gear
+item.contenttweaker.damagedGearCopper.name=Chipped Copper Gear
+item.contenttweaker.damagedGearTin.name=Chipped Tin Gear
+item.contenttweaker.damagedGearSilver.name=Chipped Silver Gear
+item.contenttweaker.damagedGearLead.name=Chipped Lead Gear
+item.contenttweaker.damagedGearAluminum.name=Chipped Aluminum Gear
+item.contenttweaker.damagedGearNickel.name=Chipped Nickel Gear
+item.contenttweaker.damagedGearPlatinum.name=Chipped Platinum Gear
+item.contenttweaker.damagedGearIridium.name=Chipped Iridium Gear
+item.contenttweaker.damagedGearMithril.name=Chipped Mana-Infused Gear
+item.contenttweaker.damagedGearSteel.name=Chipped Steel Gear
+item.contenttweaker.damagedGearElectrum.name=Chipped Electrum Gear
+item.contenttweaker.damagedGearInvar.name=Chipped Invar Gear
+item.contenttweaker.damagedGearBronze.name=Chipped Bronze Gear
+item.contenttweaker.damagedGearConstatan.name=Chipped Constantan Gear
+item.contenttweaker.damagedGearSignalum.name=Chipped Signalum Gear
+item.contenttweaker.damagedGearLumium.name=Chipped Lumium Gear
+item.contenttweaker.damagedGearEnderium.name=Chipped Enderium Gear
+item.contenttweaker.damagedGearFluxedElectrum.name=Chipped Fluxed Electrum Gear
+
+item.contenttweaker.damagedCoilConductance.name=Drained Conductance Coil
+item.contenttweaker.damagedCoilReception.name=Drained Reception Coil
+item.contenttweaker.damagedCoilTransmission.name=Drained Transmission Coil
+
+item.contenttweaker.damagedFrameDevice.name=Broken Device Frame
+item.contenttweaker.damagedFrameMachine.name=Broken Machine Frame
+item.contenttweaker.damagedFrameEnergy.name=Broken Energy Cell Frame
+
+item.contenttweaker.plasticPurple.name=Purple Glazed Plastic
+item.contenttweaker.deathBook.name=Death Notebook
+item.contenttweaker.crystallattice.name=Crystalline Lattice
